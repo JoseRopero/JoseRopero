@@ -1,4 +1,8 @@
-## Hi there 👋
+👋 ¡Hola! Soy Jose Manuel Ropero  
+**Desarrollador Backend** apasionado por crear soluciones eficientes y escalables.  
+Actualmente en busca de mi primera oportunidad profesional en el desarrollo de software.  
+
+Explora mis proyectos de **Python**, **plugins de WordPress**, **Kotlin** y **Java**, ¡y descubre cómo puedo aportar a tu equipo!
 
 <!--
 **JoseRopero/JoseRopero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
